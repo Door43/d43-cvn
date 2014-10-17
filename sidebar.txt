@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cvn:home|Door43 (cvn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cvn|d43-cvn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cvn/archive/master.zip|d43-cvn.zip]]
+
+**Recent Changes**
+{{changes>ns = cvn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cvn|Ethnologue data]]
+
